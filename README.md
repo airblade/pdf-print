@@ -10,7 +10,14 @@ But when I print it the box is not centred vertically: the top margin differs fr
 
 It must be possible to print at 100%...can anyone enlighten me?
 
-Thanks,
+## The solution
 
-Andy Stewart
-boss@airbladesoftware.com
+Courtesy of the London Ruby User Group.
+
+See here for the discussion:
+
+http://lists.lrug.org/pipermail/chat-lrug.org/2011-November/006612.html
+
+And my write-up here:
+
+http://sparklehq.com/news/printing-label-pdfs
